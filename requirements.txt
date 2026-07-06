@@ -6,7 +6,7 @@ lavasnek-rs == 0.11.1
 ciso8601 == 2.3.3
 python-dotenv == 1.2.2
 psutil == 7.2.2 
-pillow == 12.2.0
+pillow == 12.3.0
 pilmoji == 2.0.5
 pytemperature == 1.1
 qrcode == 8.2
